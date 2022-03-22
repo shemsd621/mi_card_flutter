@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
 
-// Main method
+// Main method - MyApp
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
