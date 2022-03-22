@@ -82,7 +82,7 @@ class MyApp extends StatelessWidget {
                   title: Text(
                     "+94123456789",
                     style: TextStyle(
-                        color: Colors.white,
+                        color: Colors.blue,
                         fontSize: 30,
                         fontWeight: FontWeight.bold,
                         fontFamily: 'Source Sans Pro'),
