@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
               // Circular image
               Container(
                 child: CircleAvatar(
-                  radius: 50,
+                  radius: 70,
                   backgroundImage: AssetImage('images/mypic.png'),
                 ),
                 alignment: Alignment.center,
